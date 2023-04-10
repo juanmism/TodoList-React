@@ -1,4 +1,4 @@
-# Hello World with React boilerplate
+# Hello World with React boilerplate (NO REVISADO NI CAMBIADO README)
 
 Start coding a react application
 
